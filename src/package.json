@@ -1,0 +1,18 @@
+{
+  "name": "mmserial",
+  "version": "1.0.0",
+  "description": "Coour Maximite serial testg",
+  "main": "MMSerial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dannyarnold.com",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.158",
+    "lodash": "^4.17.19"
+  }
+}
